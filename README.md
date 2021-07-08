@@ -1,4 +1,9 @@
+
 # portfolio
+This is a One page portfolio template using Vue  Js.
+I think, it can be much better with new sections or refactoring and etc.
+If you are interested, feel free to contribute!
+
 
 ## Project setup
 ```
