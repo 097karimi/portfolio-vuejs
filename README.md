@@ -1,8 +1,14 @@
 
 # portfolio
-This is a One page portfolio template using Vue  Js.
+This is a one page portfolio template using Vue  Js.
 I think, it can be much better with new sections or refactoring and etc.
 If you are interested, feel free to contribute!
+
+
+I suggest you to use the wagtail API that I specifically wrote for this project.
+
+
+ - https://github.com/097karimi/portfolio-wagtail-django-headless-CMS
 
 
 ## Project setup
